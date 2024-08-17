@@ -1,0 +1,16 @@
+2024-07-06 18:06:10,618 [7] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-06 18:07:09,125 [57] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-19 19:49:15,530 [1] WARN  Account Manager - Restarting app due to config hash mismatch
+[App.config]
+	Current:  5E0BA1895CF088E6D6907B8ABBD8CD41C86F39CC642351A9AB0BF458BF1F5B31
+	Expected: 2B6D99DB8369B0FF6372737D89D1C9E4101815B4168A3852C7B513F2897E7F3D
+[log4.config]
+	Current:  E4B10630D9EC2AF508DE31752FBBC6816C7426C40A3E57F0A085CE7F42C77BD5
+	Expected: E4B10630D9EC2AF508DE31752FBBC6816C7426C40A3E57F0A085CE7F42C77BD5
+2024-08-16 17:24:46,993 [21] INFO  Account Manager - Attempting to refresh joemammagaming1234 | Last Use: Saturday 17:24:03
+2024-08-16 17:29:47,005 [76] INFO  Account Manager - Attempting to refresh JACKC100ppdsasa | Last Use: Saturday 17:28:43
+2024-08-16 17:29:53,507 [67] INFO  Account Manager - Attempting to refresh spectrumspeedrun | Last Use: Saturday 17:27:10
+2024-08-16 17:29:59,964 [81] INFO  Account Manager - Attempting to refresh funiman4 | Last Use: Saturday 17:25:30
+2024-08-16 17:34:47,021 [30] INFO  Account Manager - Attempting to refresh mymymymmymyyY | Last Use: Saturday 17:30:15
+2024-08-16 17:34:53,523 [74] INFO  Account Manager - Attempting to refresh mymymymmymyy | Last Use: Saturday 17:30:54
+2024-08-16 20:09:47,277 [14] INFO  Account Manager - Attempting to refresh icespeedrun | Last Use: Saturday 20:07:11
